@@ -9,5 +9,12 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "gitHead": "493ff040beaf2c668199e08b78af7401f220f672"
+  "gitHead": "493ff040beaf2c668199e08b78af7401f220f672",
+  "devDependencies": {
+    "axios": "^0.19.2"
+  },
+  "dependencies": {
+    "dayjs": "^1.8.31",
+    "lodash": "^4.17.19"
+  }
 }
